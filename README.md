@@ -1,4 +1,3 @@
-# Riddhi23-
 ### Hi, I'm Riddhi 👋
 
 PhD Researcher in Computer Science at SVNIT, Surat. 7+ years teaching AI, ML, and Data Structures at Indian universities. Currently exploring applied ML at the intersection of healthcare, wellness, and Indian-context datasets.
